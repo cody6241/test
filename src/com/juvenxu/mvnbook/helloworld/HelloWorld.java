@@ -11,6 +11,7 @@ public class HelloWorld
 	{
 		System.out.print(new HelloWorld().sayHello());
 		System.out.println("Say hello world too, on 2016/11/4");
+		System.out.println("Say hello world too, on 2016/11/4");
+		
 	}
-	
 }
